@@ -1,6 +1,19 @@
-p {
-< body style = "background-color: orange;">
-<p style = "color: black; font: 1.2em "Fira Sans", sans-serif">
-<head style = "border: 1rem solid; color:black;">
+html {
+  font-size: 10px;
+   font-family: Helvetica, Arial, sans-serif;
+}
 
+h1 {
+  font-size: 5rem;
+  text-transform: capitalize;
+}
+
+h1 + p {
+  font-weight: bold;
+}
+
+p {
+  font-size: 1.5rem;
+  color: red
+    background-color: orange;
 }
