@@ -1,3 +1,12 @@
+html {
+ background-color: orange
+}
+
+h1 {
+ border: 1rem solid;
+ border-width: 1em;
+}
+
 
 p {
  font-family: system-ui;
