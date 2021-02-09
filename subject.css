@@ -1,5 +1,5 @@
 html {
- background-color: orange
+ font-size:large;
 }
 
 h1 {
@@ -11,4 +11,5 @@ h1 {
 p {
  font-family: system-ui;
   font-size: medium;
+ color:orange;
 }
