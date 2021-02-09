@@ -3,11 +3,7 @@ h1 {
   text-transform: capitalize;
 }
 
-h1 + p {
-  font-weight: bold;
-}
-
 p {
-  font-size: 1.5rem;
-  color: orange;
+ font-family: system-ui;
+  font-size: medium;
 }
