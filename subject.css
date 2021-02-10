@@ -1,15 +1,16 @@
 html {
  font-size:large;
+ background-color:antiquewhite;
 }
 
 h1 {
  border: 1rem solid;
- border-width: 1em;
+ border-width: 0.5em;
+ color:orange
 }
 
 
 p {
  font-family: system-ui;
   font-size: medium;
- color:orange;
 }
