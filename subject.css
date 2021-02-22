@@ -16,7 +16,13 @@ p {
 }
 
 .menu {
-  display: flex;
+    display: flex;
 }
+
+.menu > div {
+    flex: 1;
+}
+
+
 
 
