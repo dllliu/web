@@ -15,11 +15,11 @@ p {
   font-size: medium;
 }
 
-.menu {
+.wrapper {
     display: flex;
 }
 
-.menu > div {
+.wrapper > div {
     flex: 1;
 }
 
