@@ -17,11 +17,8 @@ p {
 
 nav li {
   display: inline-block;
-}
-
-.wrapper {
-  display: flex;
-  flex: 1;
+  padding: 20px;
+  border: 1px solid #555;
 }
 
 
