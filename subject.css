@@ -19,7 +19,6 @@ p {
 nav li {
   display: inline-block;
   padding: 20px;
-  border: 1px solid #555;
 }
 
 
@@ -28,7 +27,9 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: antiquewhite;
+ font-weight:bold;
+ text-transform:uppercase;
+  background-color: lightsteelblue;
 }
 
 li {
@@ -44,8 +45,15 @@ li a {
 
 
 li a:hover {
-  background-color: gold;
+  background-color: lightseagreen;
 }
+
+.nav a.active {
+ background: lightseagreen;
+}
+
+
+
 
 
 
