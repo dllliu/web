@@ -15,24 +15,20 @@ p {
   font-size: medium;
 }
 
-nav li {
-  display: inline-block;
-  padding: 20px;
-  border: 1px solid #555;
-}
 
 nav li {
   display: inline-block;
   padding: 20px;
   border: 1px solid #555;
 }
+
 
 ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333;
+  background-color: antiquewhite;
 }
 
 li {
@@ -48,11 +44,8 @@ li a {
 
 
 li a:hover {
-  background-color: #111;
+  background-color: gold;
 }
-
-
-
 
 
 
