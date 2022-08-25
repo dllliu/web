@@ -1,12 +1,12 @@
 html {
- font-size:large;
- background-color:antiquewhite;
+ font-size:medium;
+ background-color:white;
 }
 
 h1 {
- border: 1rem solid;
+ border: 2rem solid;
  border-width: 0.5em;
- color:orange
+ color:sandybrown
 }
 
 
@@ -28,16 +28,12 @@ ul {
   padding: 0;
   overflow: hidden;
  font-weight:bold;
- text-transform:uppercase;
-  background-color: lightsteelblue;
+  background-color: mintcream;
 }
 
-li {
-  float: left;
-}
 
 li a {
-  color: black;
+  color: midnightblue;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
@@ -45,22 +41,9 @@ li a {
 
 
 li a:hover {
-  background-color: lightseagreen;
+  background-color: whitesmoke;
 }
 
 .wrapper a.active {
- background: lightseagreen;
+ background: whitesmoke;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
